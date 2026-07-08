@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=180&section=header&text=Nazmus%20Sakib%20Shohan&fontSize=42&fontColor=c0caf5&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20NLP%20%26%20Full-Stack%20Engineer&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=180&section=header&text=Nazmus%20Sakib%20Shohan&fontSize=42&fontColor=c0caf5&fontAlignY=38&desc=CSE%20Student%20%7C%20NLP%20and%20Full-Stack%20Engineer&descAlignY=58&descSize=18"/>
 </div>
 
 ---
