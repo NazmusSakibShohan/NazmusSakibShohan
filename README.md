@@ -33,7 +33,7 @@ currently_building: Bengali depression/sentiment text classifier with BanglaBERT
 - 🌐 Full-stack developer shipping projects on **Vercel, GitHub Pages, Streamlit Cloud, and Kaggle**.
 - 🎥 Leading **DIUFPC**'s digital presence — from the club website to event tech.
 - 📚 Passionate about applied ML, computer vision, and clean, production-ready engineering.
-- 🇦🇷 Football fan — always backing Argentina.
+- :argentina: Football fan — always backing Argentina.
 
 ---
 
@@ -148,8 +148,8 @@ Full **MERN stack** medicine e-commerce platform (E-Inject), showcased on a rede
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NazmusSakibShohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmusSakibShohan&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=NazmusSakibShohan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=NazmusSakibShohan&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br/>
 
